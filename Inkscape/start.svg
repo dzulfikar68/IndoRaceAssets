@@ -16,7 +16,7 @@
    id="svg3893"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="start.svg"
-   inkscape:export-filename="/home/cakap/OpenSourceProject/IndoRaceAssets/start-background.png"
+   inkscape:export-filename="/home/cakap/OpenSourceProject/IndoRaceAssets/Inkscape/setting-button-click.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34800645"
-     inkscape:cx="541.09705"
-     inkscape:cy="413.06834"
+     inkscape:zoom="0.9999679"
+     inkscape:cx="-95.488929"
+     inkscape:cy="195.43379"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6077,6 +6077,185 @@
          id="path7590"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.75161743px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37167338"
          d="m 220.20174,146.66641 q -0.0406,2.04614 -1.58542,2.79142 -0.51492,0.24391 -1.1789,0.24391 h -3.21149 q -1.206,0 -1.99194,-0.86724 -0.79948,-0.86723 -0.79948,-2.08679 v -7.39862 q 0,-1.20601 0.73173,-2.07324 0.73173,-0.86724 1.92418,-0.86724 h 3.44186 q 1.206,0 1.92418,0.92144 0.71818,0.92144 0.71818,2.15454 v 1.76158 q 0,1.19245 -0.66398,2.04614 -0.66398,0.84014 -1.84288,0.84014 h -3.95677 v 2.45265 q 0,1.08405 1.0976,1.08405 h 2.05969 q 0.46072,0 0.73173,-0.25746 0.28456,-0.27101 0.27101,-0.74528 z m -5.39313,-8.15746 q -1.0976,0 -1.0976,1.13825 v 2.47976 h 2.96758 q 0.51492,0 0.86724,-0.28456 0.36586,-0.29812 0.36586,-0.85369 V 139.593 q 0,-0.56913 -0.36586,-0.82659 -0.35232,-0.25746 -0.86724,-0.25746 z" />
+    </g>
+    <g
+       id="g12119"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.53797886,0,0,0.53797886,-128.5067,177.81867)"
+         id="g11525"
+         style="fill:#000000">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24985984"
+           id="rect11519"
+           width="66.067604"
+           height="34.773811"
+           x="70.202133"
+           y="24.101189" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="83.154755"
+           y="46.779758"
+           id="text11523"><tspan
+             sodipodi:role="line"
+             id="tspan11521"
+             x="83.154755"
+             y="46.779758"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#000000;fill-opacity:1;stroke-width:0.26458332">Play</tspan></text>
+      </g>
+      <rect
+         style="fill:#e97171;fill-opacity:1;stroke:none;stroke-width:0.13441931"
+         id="rect11527"
+         width="35.542973"
+         height="18.707575"
+         x="-89.840027"
+         y="189.88518" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.69360924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcb8e;fill-opacity:1;stroke:none;stroke-width:0.14234023"
+         x="-82.871788"
+         y="202.08577"
+         id="text11531"><tspan
+           sodipodi:role="line"
+           id="tspan11529"
+           x="-82.871788"
+           y="202.08577"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62807178px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#ffcb8e;fill-opacity:1;stroke-width:0.14234023">Play</tspan></text>
+      <g
+         style="fill:#000000"
+         id="g12097"
+         transform="matrix(0.53797886,0,0,0.53797886,-128.5067,177.81867)">
+        <rect
+           y="24.101189"
+           x="70.202133"
+           height="34.773811"
+           width="66.067604"
+           id="rect12091"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24985984" />
+        <text
+           id="text12095"
+           y="46.779758"
+           x="83.154755"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             y="46.779758"
+             x="83.154755"
+             id="tspan12093"
+             sodipodi:role="line">Play</tspan></text>
+      </g>
+      <rect
+         y="189.88518"
+         x="-89.840027"
+         height="18.707575"
+         width="35.542973"
+         id="rect12099"
+         style="fill:#e97171;fill-opacity:1;stroke:none;stroke-width:0.13441931" />
+      <text
+         id="text12103"
+         y="202.08577"
+         x="-82.871788"
+         style="font-style:normal;font-weight:normal;font-size:5.69360924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcb8e;fill-opacity:1;stroke:none;stroke-width:0.14234023"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62807178px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#ffcb8e;fill-opacity:1;stroke-width:0.14234023"
+           y="202.08577"
+           x="-82.871788"
+           id="tspan12101"
+           sodipodi:role="line">Play</tspan></text>
+    </g>
+    <g
+       id="g12220"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.53797886,0,0,0.53797886,-128.5067,177.81867)"
+         id="g12127"
+         style="fill:#000000">
+        <rect
+           y="66.434525"
+           x="54.327133"
+           height="34.773811"
+           width="97.511398"
+           id="rect12121"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.30354974" />
+        <text
+           id="text12125"
+           y="89.113083"
+           x="67.279762"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             y="89.113083"
+             x="67.279762"
+             id="tspan12123"
+             sodipodi:role="line">Setting</tspan></text>
+      </g>
+      <rect
+         y="212.65962"
+         x="-98.38044"
+         height="18.707575"
+         width="52.459072"
+         id="rect12129"
+         style="fill:#e97171;fill-opacity:1;stroke:none;stroke-width:0.16330335" />
+      <text
+         id="text12133"
+         y="224.8602"
+         x="-91.412201"
+         style="font-style:normal;font-weight:normal;font-size:5.69360924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcb8e;fill-opacity:1;stroke:none;stroke-width:0.14234023"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62807178px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#ffcb8e;fill-opacity:1;stroke-width:0.14234023"
+           y="224.8602"
+           x="-91.412201"
+           id="tspan12131"
+           sodipodi:role="line">Setting</tspan></text>
+    </g>
+    <g
+       id="g12229"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="matrix(0.53797886,0,0,0.53797886,-128.5067,177.81867)"
+         id="g12179"
+         style="fill:#000000">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24998832"
+           id="rect12173"
+           width="66.135567"
+           height="34.773811"
+           x="70.202133"
+           y="108.76784" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="83.154755"
+           y="131.44641"
+           id="text12177"><tspan
+             sodipodi:role="line"
+             id="tspan12175"
+             x="83.154755"
+             y="131.44641"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#000000;fill-opacity:1;stroke-width:0.26458332">Quit</tspan></text>
+      </g>
+      <rect
+         style="fill:#e97171;fill-opacity:1;stroke:none;stroke-width:0.13448843"
+         id="rect12181"
+         width="35.579536"
+         height="18.707575"
+         x="-89.840027"
+         y="235.43405" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.69360924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcb8e;fill-opacity:1;stroke:none;stroke-width:0.14234023"
+         x="-82.871788"
+         y="247.63464"
+         id="text12185"><tspan
+           sodipodi:role="line"
+           id="tspan12183"
+           x="-82.871788"
+           y="247.63464"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62807178px;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP';fill:#ffcb8e;fill-opacity:1;stroke-width:0.14234023">Quit</tspan></text>
     </g>
   </g>
 </svg>
