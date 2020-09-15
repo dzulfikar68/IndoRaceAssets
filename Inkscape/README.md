@@ -3,19 +3,19 @@
 
 TODO-Inkscape:
 
--Menu
+- Menu
 
--Choose Mode
+- Choose Mode
 
--Choose Car
+- Choose Car
 
--Choose Track
+- Choose Track
 
--Choose Weather
+- Choose Weather
 
--Exit
+- Exit
 
 
 TODO-Blender:
 
--
+- ???
