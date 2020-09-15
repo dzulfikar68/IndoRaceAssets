@@ -16,7 +16,7 @@
    id="svg3893"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="start.svg"
-   inkscape:export-filename="/home/cakap/OpenSourceProject/IndoRaceAssets/start.png"
+   inkscape:export-filename="/home/cakap/OpenSourceProject/IndoRaceAssets/start-background.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -42,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17995111"
-     inkscape:cx="2064.9047"
-     inkscape:cy="-107.60618"
+     inkscape:zoom="0.34800645"
+     inkscape:cx="541.09705"
+     inkscape:cy="413.06834"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5658,20 +5658,23 @@
       </g>
     </g>
     <rect
-       style="opacity:0.522;fill:#f5efef;fill-opacity:1;stroke:none;stroke-width:0.22059554"
-       id="rect7645"
-       width="157.41141"
-       height="153.51215"
-       x="101.91209"
-       y="115.51831"
-       ry="18.268576" />
-    <rect
        style="opacity:0.66000001;fill:#ffcb8e;fill-opacity:1;stroke:none;stroke-width:0.29938361"
        id="rect6350"
        width="386.20358"
        height="260.54681"
        x="-13.734765"
        y="65.912537" />
+    <rect
+       style="opacity:0.522;fill:#ffe6c0;fill-opacity:1;stroke:none;stroke-width:0.22059554"
+       id="rect7645"
+       width="157.41141"
+       height="153.51215"
+       x="101.91209"
+       y="115.51831"
+       ry="18.268576"
+       inkscape:export-filename="/home/cakap/OpenSourceProject/IndoRaceAssets/shape-rounded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g8747"
        inkscape:export-filename="/home/cakap/OpenSourceProject/IndoRaceAssets/play-button.png"
