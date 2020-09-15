@@ -1,7 +1,7 @@
 # IndoRaceAssets
 
 
-TODO-Inkscape:
+TODO:
 
 - Menu
 
@@ -14,8 +14,3 @@ TODO-Inkscape:
 - Choose Weather
 
 - Exit
-
-
-TODO-Blender:
-
-- ???
