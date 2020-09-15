@@ -2,8 +2,8 @@
 
 TODO:
 
--Car Kijang
+- Car Kijang
 
--Building Jogja
+- Building Jogja
 
--Anything else
+- Anything else
